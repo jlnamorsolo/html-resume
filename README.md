@@ -1,1 +1,1 @@
-# html-resume
+# resume
